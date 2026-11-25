@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+node_modules/
+dist/
+.ipynb_checkpoints/
+
+# Never commit real CVs or personal data
+data/private/
+data/raw_cvs/
+uploads/
+*.db

@@ -1,0 +1,21 @@
+Sample Candidate (FICTIONAL, for testing only)
+
+Summary
+Computer science graduate interested in data roles.
+
+Skills
+Python, SQL, Pandas, Excel, Git
+
+Education
+Bachelor of Science in Computer Science, Example University, 2020 - 2024
+
+Experience
+Data Intern, Example Analytics
+Jun 2023 - Dec 2023
+- Cleaned and preprocessed customer data using Pandas.
+- Built a sales dashboard in Power BI for the marketing team.
+
+Projects
+House Price Predictor
+- Built a regression model to predict house prices using scikit-learn.
+- Presented findings to classmates.

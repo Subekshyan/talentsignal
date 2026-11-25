@@ -1,0 +1,21 @@
+Junior Data Analyst (SAMPLE, fictional posting for testing)
+Company: Example Tech Pvt. Ltd., Kathmandu
+
+About the role
+We are looking for a junior analyst to join our data team.
+
+Responsibilities
+- Build weekly reports for the product team.
+- Clean and prepare data from several sources.
+
+Requirements
+- Bachelor's degree in Computer Science, IT or a related field.
+- 1 year of experience in a data or analytics role.
+- Proficiency in Python and SQL.
+- Strong knowledge of statistics.
+- Experience building dashboards with Power BI or Tableau.
+- Good communication skills.
+
+Preferred
+- Experience with machine learning.
+- Familiarity with Docker.
